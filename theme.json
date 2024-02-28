@@ -1,0 +1,12 @@
+{
+    "name": "Solace",
+    "description": "This theme includes element styles with icons for architectural diagrams of an Event-Driven System, based upon an icon set provided by Solace (https://solace.com/solace-eda-icons/).",
+    "elements": [
+        {
+            "tag": "Solace - Event Broker",
+            "stroke": "#5e9624",
+            "color": "#5e9624",
+            "icon": "icons/solace/PubSub+ Event Broker.svg"
+        }
+    ]
+}
