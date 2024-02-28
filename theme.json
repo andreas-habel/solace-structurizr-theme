@@ -4,8 +4,8 @@
     "elements": [
         {
             "tag": "Solace - Event Broker",
-            "stroke": "#5e9624",
-            "color": "#5e9624",
+            "stroke": "#00C895",
+            "color": "#00C895",
             "icon": "icons/solace/PubSub+ Event Broker.svg"
         }
     ]

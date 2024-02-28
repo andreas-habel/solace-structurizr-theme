@@ -1,0 +1,77 @@
+{
+  "id" : 1,
+  "name" : "Name",
+  "description" : "Description",
+  "lastModifiedDate" : "2024-02-28T20:09:58Z",
+  "lastModifiedAgent" : "structurizr-javascript",
+  "properties" : {
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKCiAgICAgICAgYnJva2VyID0gc29mdHdhcmVTeXN0ZW0gIlNvbGFjZSBCcm9rZXIiIHsKICAgICAgICAgICAgdGFncyAiU29sYWNlIC0gRXZlbnQgQnJva2VyIgogICAgICAgIH0KCiAgICAgICAgdXNlciAtPiBicm9rZXIgIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHRoZW1lICJodHRwczovL2FuZHJlYXMtaGFiZWwuZ2l0aHViLmlvL2dpdGh1Yi1wYWdlcy9zb2xhY2Utc3RydWN0dXJpenItdGhlbWUvdGhlbWUuanNvbiIKICAgICAgICAKICAgICAgICBzeXN0ZW1Db250ZXh0IGJyb2tlciAiRGlhZ3JhbTEiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQogICAgfQoKICAgIGNvbmZpZ3VyYXRpb24gewogICAgICAgIHNjb3BlIHNvZnR3YXJlc3lzdGVtCiAgICB9Cgp9Cg=="
+  },
+  "configuration" : {
+    "scope" : "SoftwareSystem"
+  },
+  "model" : {
+    "people" : [ {
+      "id" : "1",
+      "tags" : "Element,Person",
+      "properties" : {
+        "structurizr.dsl.identifier" : "user"
+      },
+      "name" : "User",
+      "relationships" : [ {
+        "id" : "3",
+        "tags" : "Relationship",
+        "properties" : {
+          "structurizr.dsl.identifier" : "30977253-1186-47c0-8297-7af94513b9af"
+        },
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Uses"
+      } ],
+      "location" : "Unspecified"
+    } ],
+    "softwareSystems" : [ {
+      "id" : "2",
+      "tags" : "Element,Software System,Solace - Event Broker",
+      "properties" : {
+        "structurizr.dsl.identifier" : "broker"
+      },
+      "name" : "Solace Broker",
+      "location" : "Unspecified",
+      "documentation" : { }
+    } ]
+  },
+  "documentation" : { },
+  "views" : {
+    "systemContextViews" : [ {
+      "key" : "Diagram1",
+      "order" : 1,
+      "softwareSystemId" : "2",
+      "dimensions" : {
+        "width" : 1395,
+        "height" : 1225
+      },
+      "enterpriseBoundaryVisible" : true,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 200,
+        "y" : 200
+      }, {
+        "id" : "2",
+        "x" : 745,
+        "y" : 725
+      } ],
+      "relationships" : [ {
+        "id" : "3"
+      } ]
+    } ],
+    "configuration" : {
+      "branding" : { },
+      "styles" : { },
+      "themes" : [ "https://andreas-habel.github.io/github-pages/solace-structurizr-theme/theme.json" ],
+      "terminology" : { },
+      "metadataSymbols" : "SquareBrackets",
+      "lastSavedView" : "Diagram1"
+    }
+  }
+}
