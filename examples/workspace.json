@@ -2,10 +2,9 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "lastModifiedDate" : "2024-02-28T20:09:58Z",
-  "lastModifiedAgent" : "structurizr-javascript",
+  "lastModifiedDate" : "2024-02-28T20:50:43Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKCiAgICAgICAgYnJva2VyID0gc29mdHdhcmVTeXN0ZW0gIlNvbGFjZSBCcm9rZXIiIHsKICAgICAgICAgICAgdGFncyAiU29sYWNlIC0gRXZlbnQgQnJva2VyIgogICAgICAgIH0KCiAgICAgICAgdXNlciAtPiBicm9rZXIgIlVzZXMiCiAgICB9CgogICAgdmlld3MgewogICAgICAgIHRoZW1lICJodHRwczovL2FuZHJlYXMtaGFiZWwuZ2l0aHViLmlvL2dpdGh1Yi1wYWdlcy9zb2xhY2Utc3RydWN0dXJpenItdGhlbWUvdGhlbWUuanNvbiIKICAgICAgICAKICAgICAgICBzeXN0ZW1Db250ZXh0IGJyb2tlciAiRGlhZ3JhbTEiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQogICAgfQoKICAgIGNvbmZpZ3VyYXRpb24gewogICAgICAgIHNjb3BlIHNvZnR3YXJlc3lzdGVtCiAgICB9Cgp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CiAgICAgICAgdXNlciA9IHBlcnNvbiAiVXNlciIKCiAgICAgICAgbWVzaCA9IHNvZnR3YXJlU3lzdGVtICJTb2xhY2UgRXZlbnQgTWVzaCIgewogICAgICAgICAgICB0YWdzICJTb2xhY2UgLSBFdmVudCBNZXNoIgoKICAgICAgICAgICAgYnJva2VyX2V1ID0gY29udGFpbmVyICJTb2xhY2UgQnJva2VyIEVVIiB7CiAgICAgICAgICAgICAgICB0YWdzICJTb2xhY2UgLSBFdmVudCBCcm9rZXIiCiAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbiAiU29sYWNlIFB1YlN1YisgRW50ZXJwcmlzZSBCcm9rZXIsIGhvc3RlZCBpbiBFVSBEYXRhY2VudGVyIgogICAgICAgICAgICAgICAgdGVjaG5vbG9neSAiUHViU3ViKyBFbnRlcnByaXNlIFNvZnR3YXJlIDEwSyIKICAgICAgICAgICAgfQoKICAgICAgICAgICAgYnJva2VyX3VzX2Vhc3QgPSBjb250YWluZXIgIlNvbGFjZSBCcm9rZXIgVVMgRWFzdCIgewogICAgICAgICAgICAgICAgdGFncyAiU29sYWNlIC0gRXZlbnQgQnJva2VyIgogICAgICAgICAgICAgICAgdGVjaG5vbG9neSAiUHViU3ViKyBFbnRlcnByaXNlIFNvZnR3YXJlIDEwMEsiCiAgICAgICAgICAgICAgICBwcm9wZXJ0aWVzIHsKICAgICAgICAgICAgICAgICAgICBIQSB0cnVlCiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgdGhpcyAtPiBicm9rZXJfZXUgIkVzdGFibGlzaGVzIERNUiBMaW5rIiB7CiAgICAgICAgICAgICAgICAgICAgdGFncyAiU29sYWNlIC0gRE1SIExpbmsiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIGJyb2tlcl91c193ZXN0ID0gY29udGFpbmVyICJTb2xhY2UgQnJva2VyIFVTIFdlc3QiIHsKICAgICAgICAgICAgICAgIHRhZ3MgIlNvbGFjZSAtIEV2ZW50IEJyb2tlciIKICAgICAgICAgICAgICAgIHRlY2hub2xvZ3kgIlB1YlN1YisgRW50ZXJwcmlzZSBTb2Z0d2FyZSAxMEsiCiAgICAgICAgICAgICAgICAKCiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIHRoaXMgLT4gYnJva2VyX3VzX2Vhc3QgIkVzdGFibGlzaGVzIERNUiBMaW5rIiB7CiAgICAgICAgICAgICAgICAgICAgdGFncyAiU29sYWNlIC0gRE1SIExpbmsiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB0aGlzIC0+IGJyb2tlcl9ldSAiRXN0YWJsaXNoZXMgRE1SIExpbmsiIHsKICAgICAgICAgICAgICAgICAgICB0YWdzICJTb2xhY2UgLSBETVIgTGluayIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgICAgIHVzZXIgLT4gYnJva2VyX2V1ICJVc2VzIgogICAgfQoKICAgIHZpZXdzIHsKICAgICAgICB0aGVtZSAiaHR0cHM6Ly9hbmRyZWFzLWhhYmVsLmdpdGh1Yi5pby9naXRodWItcGFnZXMvc29sYWNlLXN0cnVjdHVyaXpyLXRoZW1lL3RoZW1lLmpzb24iCiAgICAgICAgCiAgICAgICAgc3lzdGVtQ29udGV4dCBtZXNoICJHbG9iYWxFdmVudE1lc2giIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgbWVzaCAiTWVzaERldGFpbHMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgfQoKICAgICAgICBzdHlsZXMgewogICAgICAgIH0KICAgIH0KCiAgICBjb25maWd1cmF0aW9uIHsKICAgICAgICBzY29wZSBzb2Z0d2FyZXN5c3RlbQogICAgfQoKfQo="
   },
   "configuration" : {
     "scope" : "SoftwareSystem"
@@ -19,37 +18,102 @@
       },
       "name" : "User",
       "relationships" : [ {
-        "id" : "3",
+        "id" : "9",
         "tags" : "Relationship",
         "properties" : {
-          "structurizr.dsl.identifier" : "30977253-1186-47c0-8297-7af94513b9af"
+          "structurizr.dsl.identifier" : "188a4b62-eaf8-4560-8420-e28f9b746964"
         },
         "sourceId" : "1",
-        "destinationId" : "2",
+        "destinationId" : "3",
         "description" : "Uses"
+      }, {
+        "id" : "10",
+        "sourceId" : "1",
+        "destinationId" : "2",
+        "description" : "Uses",
+        "linkedRelationshipId" : "9"
       } ],
       "location" : "Unspecified"
     } ],
     "softwareSystems" : [ {
       "id" : "2",
-      "tags" : "Element,Software System,Solace - Event Broker",
+      "tags" : "Element,Software System,Solace - Event Mesh",
       "properties" : {
-        "structurizr.dsl.identifier" : "broker"
+        "structurizr.dsl.identifier" : "mesh"
       },
-      "name" : "Solace Broker",
+      "name" : "Solace Event Mesh",
       "location" : "Unspecified",
+      "containers" : [ {
+        "id" : "3",
+        "tags" : "Element,Container,Solace - Event Broker",
+        "properties" : {
+          "structurizr.dsl.identifier" : "broker_eu"
+        },
+        "name" : "Solace Broker EU",
+        "description" : "Solace PubSub+ Enterprise Broker, hosted in EU Datacenter",
+        "technology" : "PubSub+ Enterprise Software 10K",
+        "documentation" : { }
+      }, {
+        "id" : "6",
+        "tags" : "Element,Container,Solace - Event Broker",
+        "properties" : {
+          "structurizr.dsl.identifier" : "broker_us_west"
+        },
+        "name" : "Solace Broker US West",
+        "relationships" : [ {
+          "id" : "7",
+          "tags" : "Relationship,Solace - DMR Link",
+          "properties" : {
+            "structurizr.dsl.identifier" : "f9377ef5-8e8c-4100-b0ef-18c97d66c1ab"
+          },
+          "sourceId" : "6",
+          "destinationId" : "4",
+          "description" : "Establishes DMR Link"
+        }, {
+          "id" : "8",
+          "tags" : "Relationship,Solace - DMR Link",
+          "properties" : {
+            "structurizr.dsl.identifier" : "71d49cca-d09e-40af-8c56-b2adfd87cdc5"
+          },
+          "sourceId" : "6",
+          "destinationId" : "3",
+          "description" : "Establishes DMR Link"
+        } ],
+        "technology" : "PubSub+ Enterprise Software 10K",
+        "documentation" : { }
+      }, {
+        "id" : "4",
+        "tags" : "Element,Container,Solace - Event Broker",
+        "properties" : {
+          "structurizr.dsl.identifier" : "broker_us_east",
+          "HA" : "true"
+        },
+        "name" : "Solace Broker US East",
+        "relationships" : [ {
+          "id" : "5",
+          "tags" : "Relationship,Solace - DMR Link",
+          "properties" : {
+            "structurizr.dsl.identifier" : "9047a401-932d-4d7c-99ad-a9584864903a"
+          },
+          "sourceId" : "4",
+          "destinationId" : "3",
+          "description" : "Establishes DMR Link"
+        } ],
+        "technology" : "PubSub+ Enterprise Software 100K",
+        "documentation" : { }
+      } ],
       "documentation" : { }
     } ]
   },
   "documentation" : { },
   "views" : {
     "systemContextViews" : [ {
-      "key" : "Diagram1",
+      "key" : "GlobalEventMesh",
       "order" : 1,
       "softwareSystemId" : "2",
       "dimensions" : {
-        "width" : 1395,
-        "height" : 1225
+        "width" : 850,
+        "height" : 1230
       },
       "enterpriseBoundaryVisible" : true,
       "elements" : [ {
@@ -58,11 +122,47 @@
         "y" : 200
       }, {
         "id" : "2",
-        "x" : 745,
-        "y" : 725
+        "x" : 200,
+        "y" : 730
       } ],
       "relationships" : [ {
-        "id" : "3"
+        "id" : "10"
+      } ]
+    } ],
+    "containerViews" : [ {
+      "key" : "MeshDetails",
+      "order" : 2,
+      "softwareSystemId" : "2",
+      "dimensions" : {
+        "width" : 2336,
+        "height" : 1381
+      },
+      "externalSoftwareSystemBoundariesVisible" : false,
+      "elements" : [ {
+        "id" : "1",
+        "x" : 1685,
+        "y" : 781
+      }, {
+        "id" : "3",
+        "x" : 1004,
+        "y" : 780
+      }, {
+        "id" : "4",
+        "x" : 219,
+        "y" : 790
+      }, {
+        "id" : "6",
+        "x" : 554,
+        "y" : 220
+      } ],
+      "relationships" : [ {
+        "id" : "5"
+      }, {
+        "id" : "7"
+      }, {
+        "id" : "8"
+      }, {
+        "id" : "9"
       } ]
     } ],
     "configuration" : {
@@ -70,8 +170,7 @@
       "styles" : { },
       "themes" : [ "https://andreas-habel.github.io/github-pages/solace-structurizr-theme/theme.json" ],
       "terminology" : { },
-      "metadataSymbols" : "SquareBrackets",
-      "lastSavedView" : "Diagram1"
+      "lastSavedView" : "MeshDetails"
     }
   }
 }

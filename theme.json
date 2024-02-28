@@ -3,7 +3,15 @@
     "description": "This theme includes element styles with icons for architectural diagrams of an Event-Driven System, based upon an icon set provided by Solace (https://solace.com/solace-eda-icons/).",
     "elements": [
         {
+            "tag": "Solace - Event Mesh",
+            "shape": "RoundedBox",
+            "stroke": "#00C895",
+            "color": "#00C895",
+            "icon": "icons/solace/Event Mesh Icon Labeled.svg"
+        },
+        {
             "tag": "Solace - Event Broker",
+            "shape": "RoundedBox",
             "stroke": "#00C895",
             "color": "#00C895",
             "icon": "icons/solace/PubSub+ Event Broker.svg"
